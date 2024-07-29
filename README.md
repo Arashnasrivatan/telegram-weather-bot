@@ -53,7 +53,7 @@ Feel free to replace placeholders like `https://github.com/your-username/telegra
 # DEMO response
 
 
-![respose demo]([https://github.com/Arashnasrivatan/telegram-weather-bot/demo.png](https://raw.githubusercontent.com/Arashnasrivatan/telegram-weather-bot/main/demo.png))
+![respose demo](https://raw.githubusercontent.com/Arashnasrivatan/telegram-weather-bot/main/demo.png)
 
 ## Developed by 👨‍💻
 

@@ -47,8 +47,6 @@ A Telegram bot that provides weather updates based on user input. The bot requir
 - **OpenCageData**: For geocoding the location names to coordinates.
 - **Dastyar**: For fetching weather information based on the coordinates.
 
-Feel free to replace placeholders like `https://github.com/your-username/telegram-weather-bot.git` with your actual repository link.
-
 
 # DEMO response
 

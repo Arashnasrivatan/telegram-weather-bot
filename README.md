@@ -2,18 +2,18 @@ Here's a `README.md` for your Telegram bot project, with emojis to make it more 
 
 ---
 
-# 📱 Telegram Weather Bot
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> Telegram Weather Bot
 
 A Telegram bot that provides weather updates based on user input. The bot requires user authentication through a phone number and can fetch weather information based on location or text input.
 
-## 🌟 Features
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Glowing%20Star.webp" alt="Glowing Star" width="25" height="25" /> Features
 
 - **Phone Number Authentication**: Users are authenticated through their phone numbers.
 - **Location-Based Weather Updates**: Get weather details for your current location or any specified location.
 - **Interactive UI**: Includes buttons and keyboards for easy interaction.
 - **Emoji Integration**: Weather descriptions come with emojis for a more engaging experience.
 
-## 🛠️ Setup and Installation
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Setup and Installation
 
 1. **Clone the Repository**:
    ```bash
@@ -35,7 +35,7 @@ A Telegram bot that provides weather updates based on user input. The bot requir
    python bot.py
    ```
 
-## 🚀 Usage
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> Usage
 
 1. **Start the Bot**: Use the `/start` command to initiate the bot. You'll be prompted to share your phone number for authentication.
 2. **Receive Weather Updates**:
@@ -48,9 +48,9 @@ A Telegram bot that provides weather updates based on user input. The bot requir
 - **Dastyar**: For fetching weather information based on the coordinates.
 
 
-## Check Out 🔥
+## Check Out <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" />
 
-Check Out the website version in my github🤩  <a href="https://github.com/Arashnasrivatan/Weather-App">Click To See</a>
+Check Out the website version in my github <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Star%20Struck.webp" alt="Star Struck" width="20" height="20" /> <a href="https://github.com/Arashnasrivatan/Weather-App">Click To See</a>
 
 # DEMO response
 

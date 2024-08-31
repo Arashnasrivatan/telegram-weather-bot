@@ -42,7 +42,7 @@ A Telegram bot that provides weather updates based on user input. The bot requir
    - **By Location**: Share your location or type in a location to receive the current weather.
    - **By Text**: Type in the name of a place to get the weather update for that location.
 
-## 🌐 APIs Used
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Full%20Moon.webp" alt="Full Moon" width="25" height="25" /> APIs Used
 
 - **OpenCageData**: For geocoding the location names to coordinates.
 - **Dastyar**: For fetching weather information based on the coordinates.

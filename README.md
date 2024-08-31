@@ -57,9 +57,9 @@ Check Out the website version in my github <img src="https://raw.githubuserconte
 
 ![respose demo](https://raw.githubusercontent.com/Arashnasrivatan/telegram-weather-bot/main/demo.png)
 
-## Developed by 👨‍💻
+## Developed by <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" />
 
 - [Arash_aio](https://t.me/arash_aio)
 
 
-**Made with ❤️ by Arash Nasrivatan**
+**Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Red%20Heart.webp" alt="Red Heart" width="20" height="20" /> by Arash Nasrivatan**
